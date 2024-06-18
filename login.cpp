@@ -10,5 +10,5 @@ int main() {
     cout << "\n1- Forgot Password";
     cout << "\n1- Exit";
     cout << "\n1- Enter Choice";
-    return 0;
+    return 0; 
 }
